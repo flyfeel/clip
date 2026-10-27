@@ -1,3 +1,10 @@
+Hi team — first off, setup was genuinely the smoothest eSIM experience I've had, so thank you for that.
+
+One problem though: the number I was assigned looks like a VoIP line, and I can't receive PayPal's verification code on it at all.
+
+That's the blocker for me — PayPal requires a non-VoIP number for registration, so this one isn't usable. Could you swap mine for a regular landline/mobile number? Happy to provide whatever details you need.
+
+Thanks!
 
 
 -----
